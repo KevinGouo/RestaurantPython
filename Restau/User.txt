@@ -1,0 +1,13 @@
+-Utilisateur:
+Email: cpo@epfedu.fr 
+Pseudo: TacTic
+Mot de passe: algo
+
+Email: theop@epfedu.fr 
+Pseudo: zxoe
+Mot de passe: hydro
+
+Email: kgm@epfedu.fr 
+Pseudo: Zidane
+Mot de passe: z
+

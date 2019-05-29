@@ -1,0 +1,25 @@
+VideAvis:
+Nom du restaurant: Nakata
+Auteur du commentaire: Dupont
+Date: 2018-12-05
+Note sur 5: 8
+Commentaire: Service de grande qualité
+
+Nom du restaurant: L'abeille
+Auteur du commentaire: Azerty
+Date: 2017-08-28
+Note sur 5: 9
+Commentaire: Un repas d'excellent qualité, une bonne ambiance malgré un prix assez excessive, l'abeille reste un must de la gastronomie française 
+
+Nom du restaurant: Mc'Donalds
+Auteur du commentaire: BigMic
+Date: 2019-05-14
+Note sur 5: 3
+Commentaire: Publicité mensongères, des burgers différents de ceux vus affichés et l'état des lieux laissaient a désirer
+
+Nom du restaurant: FF
+Auteur du commentaire: FFFFF
+Date: 2019-05-29
+Note sur 5: 5
+Commentaire: FFF
+

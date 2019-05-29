@@ -1,0 +1,82 @@
+VideRestaurants:
+Nom: Mc'Donalds 
+Type de cuisine: Burgers
+Identifiant: 151
+Prix: 15€ 
+Arrondissement: 17 rue Jean Jaurès
+Nombre d'étoiles: 0
+A emporter: oui
+
+Nom: Pizza Hut 
+Type de cuisine: Pizzas
+Identifiant: 41
+Prix: 4€ 
+Arrondissement: 2 rue Lakanal
+Nombre d'étoiles: 0
+A emporter: oui
+
+Nom: Nakata 
+Type de cuisine: Sushis
+Identifiant: 131
+Prix: 13€ 
+Arrondissement: 2 rue du Nouveau Ming
+Nombre d'étoiles: 0
+A emporter: oui
+
+Nom: Chez Renault 
+Type de cuisine: Belge
+Identifiant: 1011
+Prix: 1 
+Arrondissement: 69 boulevard Haussmann
+Nombre d'étoiles: 3
+Ambiance Musicale: non
+Accés handicapés: oui
+
+Nom: Chez Gino 
+Type de cuisine: Italienne
+Identifiant: 1811
+Prix: 8 
+Arrondissement: 7 avenue Montaigne
+Nombre d'étoiles: 2
+Ambiance Musicale: oui
+Accés handicapés: non
+
+Nom: Kongossa 
+Type de cuisine: Africaine
+Identifiant: 1711
+Prix: 18 
+Arrondissement: 20 allée de la Reine
+Nombre d'étoiles: 2
+Ambiance Musicale: oui
+Accés handicapés: non
+
+Nom: Fouquet's 
+Type de cuisine: Francaise
+Identifiant: 3821
+Prix: 8 
+Arrondissement: 99 Avenue des Champs-Elysées
+Nombre d'étoiles: 4
+Ambiance Musicale: non
+Accés handicapés: oui
+Nombre de récompense: 7
+
+Nom: L'abeille 
+Type de cuisine: Francaise
+Identifiant: 3621
+Prix: 16 
+Arrondissement:  10 Avenue d'Iéna
+Nombre d'étoiles: 5
+Ambiance Musicale: non
+Accés handicapés: non
+Nombre de récompense: 10
+
+Nom: ddd 
+Type de cuisine: ddddd
+Identifiant: 14455
+Prix: 441.0 
+Arrondissement: 4
+Nombre d'étoiles: 5
+Ambiance Musicale: oui
+Accés handicapés: oui
+Nombre de récompense: 7
+
